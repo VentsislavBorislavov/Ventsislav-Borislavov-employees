@@ -1,6 +1,6 @@
 # Ventislav-Borislavov-employees
 
-The csv file should be without header
+The csv file must be without header
 
 Sample CSV File
 ```
